@@ -2,7 +2,7 @@
 
 layout: post
 current: post
-cover:  'assets/images/potato-goulash.jpeg'
+cover:  'assets/images/blumenkohlbolognese.jpeg'
 navigation: True
 title: Blumenkohlbolognese
 date: 2021-12-05 10:00:00
